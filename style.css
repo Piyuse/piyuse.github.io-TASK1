@@ -1,0 +1,23 @@
+.xyz{
+    height: 500px;
+    width: 1300px;
+    background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url("download.png");
+
+    background-position:center;
+    background-size:cover;
+    position:relative;
+}
+.abc{
+    color:white;
+    text-align: center;
+
+}
+#prs{
+    color:black;
+    text-align:center;
+
+}
+#mrs{
+    
+    text-align: center;
+}
